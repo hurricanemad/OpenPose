@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DCMAKE_INSTALL_PREFIX:PATH=<INSTALL_DIR>;-DUSE_CUDNN=ON;-DBUILD_python=OFF;-DOpenCV_DIR=/usr/local/share/OpenCV;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'
